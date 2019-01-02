@@ -1,16 +1,18 @@
 # MagicStat
-MagicStat is a web-based statistical data analytics platform for people with little knowledge and experience in performing certain statistical models. In this repository, you can find the Django/Python source files to run the MagicStat application.
+MagicStat is a web-based statistical data analytics platform for people with little knowledge and experience in performing certain statistical models. In this repository, you can find the Django/Python source files and quick instructions to run the browser-based MagicStat application on your local environment.
 
+The fact is that you don't have install it on your machine. Visit the link below for the web version.
 # The web link: https://www.magicstat.co
 
-   ![alt text](screenshots/magicstat_online.JPG)
+   ![alt text](screenshots/magicstat_remote.JPG)
       
 
 We do NOT save your files but if you still have some data privacy issues, you can install it on your local machine as well. 
 
 # Version:
    - 1.0.0
-   - This is the first version of MagicStat and only supports the correlation model.
+   - This is the first version of MagicStat and only supports correlation models (pearson, spearman's, kendall).
+   - More models will be supported in the following versions.
    
 # License
  - GNU General Public License version 3
@@ -20,6 +22,7 @@ We do NOT save your files but if you still have some data privacy issues, you ca
   - User-friendly interface with rich visual analytics
   - Pearson correlation: a parametric test that measures the strength and direction of the relationship between two variables.
   - Cross-platform data import/export support: Comma-separated (.csv) and Microsoft Excel (.xls, .xlsx), data files.
+  - More features coming soon.
   
 # Installing MagicStat on your local machine
 
@@ -55,7 +58,7 @@ python manage.py runserver
    7. Open up a browser and type http://127.0.0.1:8000/magicstat/
    
    8. You should be able to see the following screen:
-![alt text](screenshots/magicstat_local.JPG)
+![alt text](screenshots/magicstat_mylocal.JPG)
   
 # Installing MagicStat for your own django project
 
