@@ -77,7 +77,7 @@ If you want to integrate MagicStat with your own Django project, follow these st
 ```
 3. The MagicStat application contains a static directory for storing static files. Include the url of that directory in the settings.py file like this:
 ```python
-    STATIC_URL = '/MagicStat/static/'
+    STATIC_URL = '/static/'
 ```
 4. Continue with the step 2 in 'Installing MagicStat on your local machine'.
 
