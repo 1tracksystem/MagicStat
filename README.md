@@ -10,7 +10,7 @@ The fact is that you don't have install it on your machine. Visit the link below
 We do NOT save your files but if you still have some data privacy issues, you can install it on your local machine as well. 
 
 # Version:
-   - 1.0.1
+   - 1.0.2
    - This version only supports correlation models (pearson, spearman's, kendall).
    - More models will be supported in the following versions.
    
