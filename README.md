@@ -10,8 +10,8 @@ The fact is that you don't have install it on your machine. Visit the link below
 We do NOT save your files but if you still have some data privacy issues, you can install it on your local machine as well. 
 
 # Version:
-   - 1.0.0
-   - This is the first version of MagicStat and only supports correlation models (pearson, spearman's, kendall).
+   - 1.0.1
+   - This version only supports correlation models (pearson, spearman's, kendall).
    - More models will be supported in the following versions.
    
 # License
